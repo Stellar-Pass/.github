@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🎫 Stellar Pass
+<img src="logo.svg" width="120" height="120" alt="Stellar Pass Logo">
+
+# Stellar Pass
 
 ### NFT Event Ticketing & Proof-of-Attendance on Stellar
 
